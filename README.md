@@ -10,3 +10,7 @@ It controls its actions both consciously and unconsciously.
 It is developed following the example of the human brain's cognitive functionality.
 
 The android is named Francine after René Descartes' daughter, Francine Descartes.
+
+More information on this project can be found in its [Wiki](../../wiki).
+
+Note: This is considered a long-term project that incorporates the latest scientific findings when they occur.
